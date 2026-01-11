@@ -168,4 +168,6 @@ MIT License
 
 ## 作者
 
-流体金融团队
+Hon-Yu Zhang
+
+GLM Coding
