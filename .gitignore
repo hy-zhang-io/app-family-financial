@@ -1,0 +1,7 @@
+node_modules
+.claude/
+unpackage/
+.idea/
+*.iml
+.DS_Store
+*.log
